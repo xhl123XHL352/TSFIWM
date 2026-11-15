@@ -1,0 +1,58 @@
+{
+  "main": {
+    "python": "3.10.12 (main, Jul  5 2023, 18:54:27) [GCC 11.2.0]",
+    "platform": "Linux-5.4.250-9-velinux1-amd64-x86_64-with-glibc2.35",
+    "packages": {
+      "torch": "2.7.1+cu128",
+      "numpy": "2.2.6",
+      "Pillow": "12.1.0",
+      "pybullet": "3.2.7",
+      "transformers": "5.4.0",
+      "accelerate": "1.15.0",
+      "huggingface-hub": "1.33.0",
+      "safetensors": "0.8.0"
+    },
+    "font_sha256": {
+      "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf": "690243adfefe0ce154b547db6205794bd30ac4277275179517a90994f4980648",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf": "39c29931201f08dd89fdba4129c76288e6baeecf7c94fe4f6a757f2b50718b1b"
+    }
+  },
+  "ocr": {
+    "python": "3.10.12 (main, Jul  5 2023, 18:54:27) [GCC 11.2.0]",
+    "platform": "Linux-5.4.250-9-velinux1-amd64-x86_64-with-glibc2.35",
+    "packages": {
+      "torch": "2.7.1+cu128",
+      "numpy": "1.26.4",
+      "Pillow": "10.2.0",
+      "pybullet": "3.2.7",
+      "timm": "0.9.16",
+      "huggingface-hub": "1.33.0",
+      "safetensors": "0.8.0"
+    },
+    "font_sha256": {
+      "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf": "690243adfefe0ce154b547db6205794bd30ac4277275179517a90994f4980648",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf": "39c29931201f08dd89fdba4129c76288e6baeecf7c94fe4f6a757f2b50718b1b"
+    }
+  },
+  "doom": {
+    "python": "3.10.12 (main, Jul  5 2023, 18:54:27) [GCC 11.2.0]",
+    "platform": "Linux-5.4.250-9-velinux1-amd64-x86_64-with-glibc2.35",
+    "packages": {
+      "torch": "2.7.1+cu128",
+      "numpy": "1.26.4",
+      "Pillow": "10.4.0",
+      "transformers": "4.44.2",
+      "accelerate": "0.34.2",
+      "diffusers": "0.31.0",
+      "pyarrow": "17.0.0",
+      "timm": "1.0.9",
+      "huggingface-hub": "0.34.4",
+      "safetensors": "0.8.0",
+      "scipy": "1.14.1"
+    },
+    "font_sha256": {
+      "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf": "690243adfefe0ce154b547db6205794bd30ac4277275179517a90994f4980648",
+      "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf": "39c29931201f08dd89fdba4129c76288e6baeecf7c94fe4f6a757f2b50718b1b"
+    }
+  }
+}

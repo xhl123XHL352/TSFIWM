@@ -1,0 +1,15 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Honglei Xin, Beijing Institute of Technology.
+Attribution: Honglei Xin (2026), Text State Fidelity in Interactive World Models,
+TSFIWM v1.0.0, https://github.com/xhl123XHL352/TSFIWM.
+
+The newly generated Panel images, annotations and study-produced numerical
+results are licensed under CC BY 4.0. Newly authored software is licensed under
+the MIT License. Third-party software, fonts, robot assets, Doom data and
+model-derived Doom illustrations retain their original terms and attribution;
+see THIRD-PARTY-NOTICES.txt and third_party_notices/.
+
+Deed: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode.en
+The full legal code is included in CC-BY-4.0.txt.

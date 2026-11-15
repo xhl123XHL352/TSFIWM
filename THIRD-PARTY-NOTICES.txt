@@ -1,0 +1,20 @@
+Third-party materials retain their respective terms.
+
+PyBullet and the Panda assets: Apache-2.0. The Panda license is retained in
+third_party_notices/PANDA-APACHE-2.0.txt.
+DejaVu fonts: their copyright and license are retained in
+third_party_notices/DEJAVU-copyright.txt.
+PARSeq: Apache-2.0, https://github.com/baudm/parseq,
+revision 1902db043c029a7e03a3818c616c06600af574be.
+DoomShift: retain upstream license/NOTICE files and model-card terms from
+https://github.com/intelligent-control-lab/DoomShift,
+revision 7099c11e49b3a1acbbb5b06880aec8804379b4ef.
+Doom recordings and latent data: upstream CC BY 4.0 attribution applies.
+Stable Diffusion autoencoder/decoder weights: upstream model-card/OpenRAIL terms.
+Qwen3.5-9B revision c202236235762e1c871ad0ccb60c8ee5ba337b9a and
+InternVL3.5-8B-HF revision 741a7d03020411e666c6109218ab71e08151ef86:
+retain the corresponding publisher's model-card terms.
+
+Upstream repositories and large pretrained weights are obtained separately.
+Recorded Doom illustrations are attributed to the upstream data and models;
+their terms are separate from the license for newly generated Panel data.

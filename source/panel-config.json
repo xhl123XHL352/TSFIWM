@@ -1,0 +1,21 @@
+{
+  "version": "panel-v3",
+  "seed": 73271,
+  "families": ["counter", "toggle", "flow"],
+  "splits": {
+    "train": {"roots": 600, "seed_start": 100000, "value_min": 15, "value_max": 70, "styles": [0, 1]},
+    "dev": {"roots": 120, "seed_start": 200000, "value_min": 15, "value_max": 70, "styles": [0, 1]},
+    "test": {"roots": 180, "seed_start": 300000, "value_min": 15, "value_max": 70, "styles": [0, 1]},
+    "test_shift": {"roots": 180, "seed_start": 400000, "value_min": 200, "value_max": 900, "styles": [2]}
+  },
+  "panels": 3,
+  "calibration_targets": [0, 1, 2],
+  "branch_first_actions": [-1, 0, 1, 2],
+  "future_steps": 4,
+  "dt_values": [1, 2, 3],
+  "image_width": 768,
+  "image_height": 640,
+  "workers": 12,
+  "timeout_hours": 2,
+  "test_policy": "No test or test_shift predictions or metrics before model/protocol freeze. All branches from a root remain in one split."
+}

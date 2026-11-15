@@ -1,0 +1,210 @@
+{
+  "data_revision": "cab7cb4b6a6d3c5d92b191ed65357344ee536324",
+  "latent_revision": "1835a6003e3cebbec12ccf4e73188f1e683b1cb0",
+  "development": [
+    {
+      "episode": 6000,
+      "map": 2,
+      "raw_segment": "arenas",
+      "latent_segment": "val"
+    },
+    {
+      "episode": 6001,
+      "map": 3,
+      "raw_segment": "arenas",
+      "latent_segment": "val"
+    },
+    {
+      "episode": 6002,
+      "map": 4,
+      "raw_segment": "arenas",
+      "latent_segment": "val"
+    },
+    {
+      "episode": 6003,
+      "map": 5,
+      "raw_segment": "arenas",
+      "latent_segment": "val"
+    }
+  ],
+  "test_seen": [
+    {
+      "episode": 7000,
+      "map": 2,
+      "raw_segment": "arenas",
+      "latent_segment": "test"
+    },
+    {
+      "episode": 7001,
+      "map": 3,
+      "raw_segment": "arenas",
+      "latent_segment": "test"
+    },
+    {
+      "episode": 7002,
+      "map": 4,
+      "raw_segment": "arenas",
+      "latent_segment": "test"
+    },
+    {
+      "episode": 7003,
+      "map": 5,
+      "raw_segment": "arenas",
+      "latent_segment": "test"
+    },
+    {
+      "episode": 7004,
+      "map": 2,
+      "raw_segment": "arenas",
+      "latent_segment": "test"
+    },
+    {
+      "episode": 7005,
+      "map": 3,
+      "raw_segment": "arenas",
+      "latent_segment": "test"
+    },
+    {
+      "episode": 7006,
+      "map": 4,
+      "raw_segment": "arenas",
+      "latent_segment": "test"
+    },
+    {
+      "episode": 7007,
+      "map": 5,
+      "raw_segment": "arenas",
+      "latent_segment": "test"
+    }
+  ],
+  "test_unseen": [
+    {
+      "episode": 39,
+      "map": 1,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map01_seed0.json",
+      "split_sha256": "e8aa173b13c3bd8dc322b6175d2222cb1d980d6b55eb8d9261e5cd062dd373e5"
+    },
+    {
+      "episode": 40,
+      "map": 6,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map06_seed0.json",
+      "split_sha256": "30c4017faa1643332fe72ced454b6a17f98eed4963912d7484652f743f1669f0"
+    },
+    {
+      "episode": 41,
+      "map": 7,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map07_seed0.json",
+      "split_sha256": "9e79002742da712c7c23b926fc1d100f3a6f64daa07651c5fdb60b871abaab16"
+    },
+    {
+      "episode": 29,
+      "map": 8,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map08_seed0.json",
+      "split_sha256": "40ea396797653da11c78cd995caddf047019e0e2d5ebacf865acea9a6ac6c306"
+    },
+    {
+      "episode": 30,
+      "map": 9,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map09_seed0.json",
+      "split_sha256": "0db3b1398dec6e3a79bd4d7b9a8d697741ad158eb34d573c4ec62db8f7f4eeea"
+    },
+    {
+      "episode": 31,
+      "map": 10,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map10_seed0.json",
+      "split_sha256": "e13be4694bec572406bb656a42409f2f20840ddfac6a25a08a57b2dc741293a8"
+    },
+    {
+      "episode": 32,
+      "map": 11,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map11_seed0.json",
+      "split_sha256": "e5cdf3e48234eabc6e001d2a638d7b51da70bb64300242169de6fa4e6d695390"
+    },
+    {
+      "episode": 33,
+      "map": 12,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map12_seed0.json",
+      "split_sha256": "0beeb99afe5aa0d352a314b486487d14dff858bb1dff3b08fc7c0ec6aed4480e"
+    },
+    {
+      "episode": 34,
+      "map": 13,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map13_seed0.json",
+      "split_sha256": "9b5e58a5f9d1d5cb6b31cd2cec35049c9b27eca0dd37c36bd0b830b368369f41"
+    },
+    {
+      "episode": 35,
+      "map": 14,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map14_seed0.json",
+      "split_sha256": "ef1e7fecb0a449c20a1f19ea6660eb1dc1e9ab6bf306586e6af3f9b6b5d57d24"
+    },
+    {
+      "episode": 36,
+      "map": 15,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map15_seed0.json",
+      "split_sha256": "4fe0370537c28916cdf49893965333b77e65f0fcd6797bfda01fc0d6bc4be808"
+    },
+    {
+      "episode": 37,
+      "map": 16,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map16_seed0.json",
+      "split_sha256": "4231dd096d2a5ec0e41ec6df1ecbd92ba76ed27e665ac52d03d791662448b1bc"
+    },
+    {
+      "episode": 38,
+      "map": 17,
+      "raw_segment": "arenas13",
+      "latent_segment": "arenas13",
+      "split_source": "split_adapt_arenas13_map17_seed0.json",
+      "split_sha256": "300bf683f5066a2586dbcb47a9795025205c38b2d031ba54e9dbce0f73a8475d"
+    }
+  ],
+  "backbones": [
+    "unet",
+    "pixart"
+  ],
+  "decoder_conditions": [
+    "stock",
+    "official-train-only-tuned"
+  ],
+  "horizons": {
+    "1": {
+      "health": 12,
+      "ammo": 12,
+      "unchanged": 8
+    },
+    "16": {
+      "health": 6,
+      "ammo": 6,
+      "unchanged": 4
+    }
+  },
+  "generation_seed": 1911,
+  "statistics": "pair predictions by episode/window; cluster episode bootstrap stratified by seen map; unseen bootstrap across13 heldout maps, one episode per map; disclose within-map uncertainty unmeasured",
+  "main_metric": "Per-field changed and unchanged visible-HUD exactness and their geometric mean; equal fields; no game-variable/display conflation",
+  "limitations": "One released checkpoint per architecture, two architectures, one generation seed; stochastic health transitions and partial observability prevent deterministic-oracle interpretation; fixed-font readout metric"
+}
