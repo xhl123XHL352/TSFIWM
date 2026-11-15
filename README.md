@@ -9,8 +9,8 @@ observation, action-conditioned numerical state updates and decoder readout.
 ## Download
 
 - [Full dataset: 24,030 PNG images and annotations](https://github.com/xhl123XHL352/TSFIWM/releases/download/v1.0.0/TSFIWM-dataset-v1.0.0.zip)
-- [Code, 62 numerical-reference checkpoints and per-example results](https://github.com/xhl123XHL352/TSFIWM/releases/download/v1.0.0/TSFIWM-code-results-v1.0.0.zip)
-- [SHA-256 checksums](https://github.com/xhl123XHL352/TSFIWM/releases/download/v1.0.0/SHA256SUMS.txt)
+- [Code, 62 numerical-reference checkpoints and per-example results](https://github.com/xhl123XHL352/TSFIWM/releases/download/v1.0.1/TSFIWM-code-results-v1.0.1.zip)
+- [SHA-256 checksums](https://github.com/xhl123XHL352/TSFIWM/releases/download/v1.0.1/SHA256SUMS.txt)
 
 Extract the code/results archive into a new directory. For training or visual
 inference, extract the dataset archive into that same directory. Saved-output

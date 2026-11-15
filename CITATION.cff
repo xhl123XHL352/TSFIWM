@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "Please cite this software and benchmark when using its data or code."
 type: software
 title: "Text State Fidelity in Interactive World Models"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-15"
 authors:
   - family-names: "Xin"

@@ -1,0 +1,9 @@
+{
+  "version": "v1.0.1",
+  "source_release": "v1.0.0",
+  "source_archive_sha256": "b273dcf78f6d20ab41bf49b7b6352429dbfbeaa2c2bef71415c7952f86a122b8",
+  "portable_inputs": {},
+  "numerical_results_unchanged": true,
+  "character_records_unchanged": true,
+  "description": "Input checksums follow the distributed portable JSON files. Recorded-source checksums are retained alongside them."
+}
